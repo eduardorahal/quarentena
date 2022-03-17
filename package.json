@@ -1,0 +1,23 @@
+{
+  "name": "quarentena",
+  "version": "1.0.0",
+  "description": "Quarentena Bancaria SIMBA",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardorahal/quarentena.git"
+  },
+  "author": "Eduardo Rahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardorahal/quarentena/issues"
+  },
+  "homepage": "https://github.com/eduardorahal/quarentena#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

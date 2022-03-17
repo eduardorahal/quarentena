@@ -1,0 +1,25 @@
+Preencher dados do caso
+    Número
+    Envolvidos
+        Nome
+        CPF/CNPJ
+        Início Afastamento
+        Fim Afastamento
+
+Comparar CCS com dados do caso
+    Número Caso vs Número Caso CCS
+    CPF/CNPJ Envolvidos vs CPF/CNPJ Caso
+    Início Fim Afastamento
+
+Comparar Remessas com CCS
+    Investigado
+        Nome
+        CPF/CNPJ
+    IF
+        Consta no CCS
+    Período do Relacionamento
+        Início Afastamento
+        Fim Afastamento
+    Data da Transação
+        Início Afastamento
+        Fim Afastamento
